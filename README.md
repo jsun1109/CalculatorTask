@@ -66,12 +66,15 @@ fun main() {
 - 다른 키를 입력하면 continue에 의해 while 로 되돌아감 (num1 입력 단계)
 
 (1) Y 키를 입력하지 않았을 때
+
 ![계산기 종료 x](https://github.com/jsun1109/CalculatorTask/assets/161568081/6ca3369c-5717-4996-b1e0-991a0e312846)
 
 (2) Y 키를 입력하였을 때
+
 ![계산기 종료 - Y](https://github.com/jsun1109/CalculatorTask/assets/161568081/d8162e86-d1ce-4aa8-84a9-3ce6cbd42028)
 
 (3) y 키를 입력하였을 때
+
 ![계산기 종료 - y](https://github.com/jsun1109/CalculatorTask/assets/161568081/c70b9ece-87bb-4153-bba3-fad30de611d0)
 
 2. 입력되는 숫자를 Double형으로 변환
